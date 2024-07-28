@@ -1,49 +1,271 @@
 {
   "PLANTAS": [
-    "JAZMÍN", "ALFORFÓN", "ALTRAMUZ", "BEGONIA", "CARDO", "PITA", "ÉBULO", "TURCA", "GOMERO", "ZULLA", "VIUDA", "CHUPLÍ"
+    "JAZMÍN",
+    "ALFORFÓN",
+    "ALTRAMUZ",
+    "BEGONIA",
+    "CARDO",
+    "PITA",
+    "ÉBULO",
+    "TURCA",
+    "GOMERO",
+    "ZULLA",
+    "VIUDA",
+    "CHUPLÍ"
   ],
   "ANIMALES": [
-    "AGUAMAR", "CARABELA", "GAMUZA", "PIURE", "GAMA", "TUNICAPO", "CHIRIPA", "AGUAVERDE", "ZORRINO", "BIDENTE", "ESPARDEÑA", "ASCIDIA"
+    "AGUAMAR",
+    "CARABELA",
+    "GAMUZA",
+    "PIURE",
+    "GAMA",
+    "TUNICAPO",
+    "CHIRIPA",
+    "AGUAVERDE",
+    "ZORRINO",
+    "BIDENTE",
+    "ESPARDEÑA",
+    "ASCIDIA"
   ],
   "ARTE": [
-    "ABASTO", "NAIF", "BOCETO", "LACERÍA", "SEVERO", "GUACHE", "ROSETÓN", "ESCARLATA", "CURADOR", "CLAROSCURO", "PIROGRABADO", "SENTIR"
+    "ABASTO",
+    "NAIF",
+    "BOCETO",
+    "LACERÍA",
+    "SEVERO",
+    "GUACHE",
+    "ROSETÓN",
+    "ESCARLATA",
+    "CURADOR",
+    "CLAROSCURO",
+    "PIROGRABADO",
+    "SENTIR"
   ],
   "AJEDREZ": [
-    "ALFIL", "CABALLO", "DAMA", "REY", "ENROQUE", "JAQUE", "TORRE", "ESCAQUE", "MATE", "TIEMPO", "CLAVADA", "APERTURA", "PEÓN"
+    "ALFIL",
+    "CABALLO",
+    "DAMA",
+    "REY",
+    "ENROQUE",
+    "JAQUE",
+    "TORRE",
+    "ESCAQUE",
+    "MATE",
+    "TIEMPO",
+    "CLAVADA",
+    "APERTURA",
+    "PEÓN"
   ],
   "INSECTOS": [
-    "AVISPA", "ALGUACIL", "MANTIS", "MARIPOSA", "BARATA", "CACHIPOLLA", "MAYATE", "MORROCOY", "NIGUA", "CARBUCLO", "CHINITE", "REZNO", "CUCO"
+    "AVISPA",
+    "ALGUACIL",
+    "MANTIS",
+    "MARIPOSA",
+    "BARATA",
+    "CACHIPOLLA",
+    "MAYATE",
+    "MORROCOY",
+    "NIGUA",
+    "CARBUCLO",
+    "CHINITE",
+    "REZNO",
+    "CUCO"
   ],
   "MINERALES": [
-    "ACTINOTA", "CAOLÍN", "JASPE", "ALTERITA", "ALIOJ", "JACINTO", "BALAJE", "PANTERA", "MICA", "ASBESTO", "ARAGOTINO", "SILVINA", "CALCITA"
+    "ACTINOTA",
+    "CAOLÍN",
+    "JASPE",
+    "ALTERITA",
+    "ALIOJ",
+    "JACINTO",
+    "BALAJE",
+    "PANTERA",
+    "MICA",
+    "ASBESTO",
+    "ARAGOTINO",
+    "SILVINA",
+    "CALCITA"
   ],
   "GEOGRAFÍA": [
-    "ATLAS", "ACIRATE", "ISOHIPSA", "LAJA", "LIDIA", "ALPINO", "ARGOS", "MORFOLOGÍA", "NUDO", "BASILEA", "CABRA", "OLIMPO", "CARMELO", "COMBE"
+    "ATLAS",
+    "ACIRATE",
+    "ISOHIPSA",
+    "LAJA",
+    "LIDIA",
+    "ALPINO",
+    "ARGOS",
+    "MORFOLOGÍA",
+    "NUDO",
+    "BASILEA",
+    "CABRA",
+    "OLIMPO",
+    "CARMELO",
+    "COMBE"
   ],
   "BEBIDA": [
-    "ACEBO", "MÁLAGA", "AJENJO", "MATE", "PALOMA", "MORENITO", "MAZAMORRA", "PERICO", "CHELA", "RESBALADERA", "CHILATE", "JOTE", "ZURRA"
+    "ACEBO",
+    "MÁLAGA",
+    "AJENJO",
+    "MATE",
+    "PALOMA",
+    "MORENITO",
+    "MAZAMORRA",
+    "PERICO",
+    "CHELA",
+    "RESBALADERA",
+    "CHILATE",
+    "JOTE",
+    "ZURRA"
   ],
   "COLORES": [
-    "ALBA", "GUALDA", "HABANO", "ALMAGRE", "ALAZÁN", "MELADO", "AÑIL", "BERMEJO", "GARZO", "FUSCO", "VERDETE", "TORCAZ"
+    "ALBA",
+    "GUALDA",
+    "HABANO",
+    "ALMAGRE",
+    "ALAZÁN",
+    "MELADO",
+    "AÑIL",
+    "BERMEJO",
+    "GARZO",
+    "FUSCO",
+    "VERDETE",
+    "TORCAZ"
   ],
   "FÚTBOL": [
-    "ARCO", "RABONA", "CHILENA", "PALOMITA", "MEDULAR", "TRONCO", "TIJERA", "PARED", "CONO", "LIBRE", "GALLINA", "SEGADA", "TÚNEL", "ONCENA"
+    "ARCO",
+    "RABONA",
+    "CHILENA",
+    "PALOMITA",
+    "MEDULAR",
+    "TRONCO",
+    "TIJERA",
+    "PARED",
+    "CONO",
+    "LIBRE",
+    "GALLINA",
+    "SEGADA",
+    "TÚNEL",
+    "ONCENA"
   ],
   "LÓGICA": [
-    "APRIORÍSTICO", "CIRCULAR", "CONJUNCIÓN", "CUANTIFICAR", "ILACIÓN", "INTENSIÓN", "PROPOSICIÓN", "SIGNIFICACIÓN", "TAUTOLOGÍA"
+    "APRIORÍSTICO",
+    "CIRCULAR",
+    "CONJUNCIÓN",
+    "CUANTIFICAR",
+    "ILACIÓN",
+    "INTENSIÓN",
+    "PROPOSICIÓN",
+    "SIGNIFICACIÓN",
+    "TAUTOLOGÍA"
   ],
   "CINE": [
-    "FLASHBACK", "CASTING", "METRAJE", "PICADO", "CLAQUETA", "CONGELAR", "REPARTO", "SECUELA", "SPOILER", "ENCAJAR", "EXPUESTO"
+    "FLASHBACK",
+    "CASTING",
+    "METRAJE",
+    "PICADO",
+    "CLAQUETA",
+    "CONGELAR",
+    "REPARTO",
+    "SECUELA",
+    "SPOILER",
+    "ENCAJAR",
+    "EXPUESTO"
   ],
   "TOPOGRAFÍA": [
-    "ALAGUNA", "MAMELÓN", "MOGOTE", "CHORRERA", "MORÓN", "OTERO", "CUETO", "ZANJA", "MAMBLA", "DUNA", "CUCHILLA", "MORRO", "MÉDANO"
+    "ALAGUNA",
+    "MAMELÓN",
+    "MOGOTE",
+    "CHORRERA",
+    "MORÓN",
+    "OTERO",
+    "CUETO",
+    "ZANJA",
+    "MAMBLA",
+    "DUNA",
+    "CUCHILLA",
+    "MORRO",
+    "MÉDANO"
   ],
   "INFORMÁTICA": [
-    "ACCESAR", "JAQUEAR", "KILOBYTE", "ALOJAMIENTO", "MINIMIZAR", "EMULADOR", "BIBLIOTECA", "CLONAR", "PERIFÉRICO", "BYTE", "SUITE"
+    "ACCESAR",
+    "JAQUEAR",
+    "KILOBYTE",
+    "ALOJAMIENTO",
+    "MINIMIZAR",
+    "EMULADOR",
+    "BIBLIOTECA",
+    "CLONAR",
+    "PERIFÉRICO",
+    "BYTE",
+    "SUITE"
   ],
   "TEATRO": [
-    "ACOTACIÓN", "ALCAHUETE", "ARLEQUÍN", "MORCILLA", "MUTIS", "CONCHA", "TERMA", "PIE", "SOLILOQUIO", "RETABLO", "TABLADO", "TÍTERES"
+    "ACOTACIÓN",
+    "ALCAHUETE",
+    "ARLEQUÍN",
+    "MORCILLA",
+    "MUTIS",
+    "CONCHA",
+    "TERMA",
+    "PIE",
+    "SOLILOQUIO",
+    "RETABLO",
+    "TABLADO",
+    "TÍTERES"
+  ],
+  "OCÉANOS/MARES": [
+    "PACIFICO",
+    "ATLÁNTICO",
+    "INDICO",
+    "ÁRTICO",
+    "ANTÁRTICO",
+    "MEDITERRÁNEO",
+    "CARIBE",
+    "MERIDIONAL",
+    "BÁLTICO",
+    "NEGRO",
+    "ROJO",
+    "MUERTO"
+  ],
+  "PROVINCIAS": [
+    "ÁLAVA",
+    "ÁVILA",
+    "ALMERIA",
+    "CÁDIZ",
+    "BURGOS",
+    "CUENCA",
+    "HUESCA",
+    "LUGO",
+    "TOLEDO",
+    "SORIA",
+    "ZAMORA",
+    "TERUEL"
+  ],
+  "RIOS": [
+    "DUERO",
+    "TORMES",
+    "TAJO",
+    "EBRO",
+    "SEGURA",
+    "MIÑO",
+    "JÚCAR",
+    "GENIL",
+    "GUADIANA",
+    "GUADALQUIVIR",
+    "BIDASOA"
+  ],
+  "PLATOS TIPICOS": [
+    "PAELLA",
+    "PULPO",
+    "BACALADO",
+    "FABADA",
+    "COCIDO",
+    "TERNASCO",
+    "ESCALIVADA",
+    "SOBRASADA",
+    "ZARANGOLLO",
+    "PISTO",
+    "GAZPACHO",
+    "COCHINILLO"
   ]
 }
-
-

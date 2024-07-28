@@ -1,36 +1,194 @@
 {
   "FARMÀCIA": [
-    "IODE", "EMBENAT", "BENA", "TISORES", "PÍNDOLA", "XERINGA", "XAROP", "GOTES", "FONENDOSCOPI", "FARMACIOLA", "AMPOLLA", "ESPARADRAP", "TIRETA"
+    "IODE",
+    "EMBENAT",
+    "BENA",
+    "TISORES",
+    "PÍNDOLA",
+    "XERINGA",
+    "XAROP",
+    "GOTES",
+    "FONENDOSCOPI",
+    "FARMACIOLA",
+    "AMPOLLA",
+    "ESPARADRAP",
+    "TIRETA"
   ],
   "ESTIU": [
-    "SORRA", "VAIXELL", "PLATJA", "BRAÇAL", "TOVALLOLA", "IOT", "GANDULA", "PILOTA", "ONA", "GELAT", "BUSSEIG", "CREUER", "BARET", "ARMILLA"
+    "SORRA",
+    "VAIXELL",
+    "PLATJA",
+    "BRAÇAL",
+    "TOVALLOLA",
+    "IOT",
+    "GANDULA",
+    "PILOTA",
+    "ONA",
+    "GELAT",
+    "BUSSEIG",
+    "CREUER",
+    "BARET",
+    "ARMILLA"
   ],
   "ARBRES": [
-    "ALTS", "BAIXOS", "FRONDOSOS", "GROSSOS", "GRUIXUTS", "JOVES", "PETITS", "PRIMS", "RETORÇATS", "TORTS", "SECS", "VELLS"
+    "ALTS",
+    "BAIXOS",
+    "FRONDOSOS",
+    "GROSSOS",
+    "GRUIXUTS",
+    "JOVES",
+    "PETITS",
+    "PRIMS",
+    "RETORÇATS",
+    "TORTS",
+    "SECS",
+    "VELLS"
   ],
   "ADJECTIUS": [
-    "AGOSARAT", "ASSENYAT", "AVORRIT", "BOCAMOLL", "CAPARRUT", "ESNOB", "ESQUERP", "FEBLE", "LLEIAL", "RUC", "TOSSUT", "XIMPLET"
+    "AGOSARAT",
+    "ASSENYAT",
+    "AVORRIT",
+    "BOCAMOLL",
+    "CAPARRUT",
+    "ESNOB",
+    "ESQUERP",
+    "FEBLE",
+    "LLEIAL",
+    "RUC",
+    "TOSSUT",
+    "XIMPLET"
   ],
   "TEMPS": [
-    "AIGUAT", "GEBRE", "PEDREGAR", "CALAMARSA", "PEDRA", "GELAR", "PLUGIM", "PLUJA", "BOIRA", "LLAMP", "LLAMPEC", "ROSADA", "TRO", "VENT"
+    "AIGUAT",
+    "GEBRE",
+    "PEDREGAR",
+    "CALAMARSA",
+    "PEDRA",
+    "GELAR",
+    "PLUGIM",
+    "PLUJA",
+    "BOIRA",
+    "LLAMP",
+    "LLAMPEC",
+    "ROSADA",
+    "TRO",
+    "VENT"
   ],
   "FLECA": [
-    "FARINA", "GALETA", "TORTELL", "COCA", "BASTONETS", "TORRÓ", "PASTISSET", "PANETS", "MOLLA", "CROISSANT", "PASTÍS", "POLVORÓ", "PAGÈS"
+    "FARINA",
+    "GALETA",
+    "TORTELL",
+    "COCA",
+    "BASTONETS",
+    "TORRÓ",
+    "PASTISSET",
+    "PANETS",
+    "MOLLA",
+    "CROISSANT",
+    "PASTÍS",
+    "POLVORÓ",
+    "PAGÈS"
   ],
   "COLORS": [
-    "GROC", "MARRÓ", "TARONJA", "VERMELL", "ROIG", "VERD", "BLAU", "MORAT", "CASTANY", "NEGRE", "BLANC", "BLANCOT", "NEGROT", "GROGOT"
+    "GROC",
+    "MARRÓ",
+    "TARONJA",
+    "VERMELL",
+    "ROIG",
+    "VERD",
+    "BLAU",
+    "MORAT",
+    "CASTANY",
+    "NEGRE",
+    "BLANC",
+    "BLANCOT",
+    "NEGROT",
+    "GROGOT"
   ],
   "INVERTEBRATS": [
-    "BORINOT", "ÀCAR", "VESPA", "CORC", "XINXA", "PANEROLA", "ESCARABAT", "GRILL", "PAPALLONA", "MARIETA", "ERUGA", "ARNA", "PUÇA", "TÀBEC"
+    "BORINOT",
+    "ÀCAR",
+    "VESPA",
+    "CORC",
+    "XINXA",
+    "PANEROLA",
+    "ESCARABAT",
+    "GRILL",
+    "PAPALLONA",
+    "MARIETA",
+    "ERUGA",
+    "ARNA",
+    "PUÇA",
+    "TÀBEC"
   ],
   "TRANSPORT": [
-    "COTXE", "AUTOBÚS", "BICICLETA", "MOTOCICLETA", "AVIO", "TREN", "BARCA", "CAMIÓ", "METRO", "TRAMVIA", "HELICÒPTER", "TAXI"
+    "COTXE",
+    "AUTOBÚS",
+    "BICICLETA",
+    "MOTOCICLETA",
+    "AVIO",
+    "TREN",
+    "BARCA",
+    "CAMIÓ",
+    "METRO",
+    "TRAMVIA",
+    "HELICÒPTER",
+    "TAXI"
   ],
-    "ROPA": [
-    "CAMISA", "PANTALONS", "FALDA", "VESTIT", "JAQUETA", "ABRIC", "MITJONS", "SABATES", "BARRET", "CINTURÓ", "GUANTS", "VESTIT", "SAMARRETA"
+  "ROPA": [
+    "CAMISA",
+    "PANTALONS",
+    "FALDA",
+    "VESTIT",
+    "JAQUETA",
+    "ABRIC",
+    "MITJONS",
+    "SABATES",
+    "BARRET",
+    "CINTURÓ",
+    "GUANTS",
+    "VESTIT",
+    "SAMARRETA"
   ],
-    "FRUITS": [
-    "POMA", "PLÀTAN", "TARONJA", "RAÏM", "LLIMONA", "MADUIXA", "SÍNDRIA", "PRÉSSEC", "CIRERA", "PINYA", "KIWI", "PRUNA", "NABIUS"
+  "FRUITS": [
+    "POMA",
+    "PLÀTAN",
+    "TARONJA",
+    "RAÏM",
+    "LLIMONA",
+    "MADUIXA",
+    "SÍNDRIA",
+    "PRÉSSEC",
+    "CIRERA",
+    "PINYA",
+    "KIWI",
+    "PRUNA",
+    "NABIUS"
+  ],
+  "JOCS OLIMPICS": [
+    "TORXA",
+    "DOPATGE",
+    "EQUIP",
+    "ESTADIO",
+    "HIMNE",
+    "BRONZE",
+    "PREVETER",
+    "PODI",
+    "RELLEU",
+    "OLÍMPIC",
+    "RECORD"
+  ],
+  "ESPORTS": [
+    "TENNIS",
+    "TRIATLÓ",
+    "BOXA",
+    "BIATLÓ",
+    "NATACIÓ",
+    "BÀSQUET",
+    "CRIQUET",
+    "HANBOL",
+    "BÀDMINTON",
+    "CICLISME",
+    "RUGBI"
   ]
 }
-
