@@ -190,5 +190,33 @@
     "BÀDMINTON",
     "CICLISME",
     "RUGBI"
+  ],
+  "CIUTAS": [
+    "BARCELONA",
+    "TARRAGONA",
+    "TARRASA",
+    "SABADELL",
+    "GIRONA",
+    "LLEIDA",
+    "GRANOLLERS",
+    "MATARÓ",
+    "REUS",
+    "HOSPITALET",
+    "MARTORELL",
+    "GAVÁ"
+  ],
+  "POPLES BONICS": [
+    "CADAQUÉS",
+    "BAGERGUE",
+    "BESALÚ",
+    "RUPIT",
+    "MONTBLANC",
+    "MURA",
+    "BEGET",
+    "QUERALBS",
+    "MIRAVET",
+    "TAVERTET",
+    "MONELLS",
+    "RIVERT"
   ]
 }
