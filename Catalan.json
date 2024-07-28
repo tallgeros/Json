@@ -8,7 +8,6 @@
     "XERINGA",
     "XAROP",
     "GOTES",
-    "FONENDOSCOPI",
     "FARMACIOLA",
     "AMPOLLA",
     "ESPARADRAP",
@@ -145,7 +144,6 @@
     "MITJONS",
     "SABATES",
     "BARRET",
-    "CINTURÓ",
     "GUANTS",
     "VESTIT",
     "SAMARRETA"
@@ -193,14 +191,13 @@
   "CIUTAS": [
     "BARCELONA",
     "TARRAGONA",
-    "TARRASA",
+    "TERRASA",
     "SABADELL",
     "GIRONA",
     "LLEIDA",
     "GRANOLLERS",
     "MATARÓ",
     "REUS",
-    "HOSPITALET",
     "MARTORELL",
     "GAVÁ"
   ],
